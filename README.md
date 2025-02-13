@@ -1,2 +1,1 @@
-# Data-Analyst-Course
-3 Month Data Analyst Course
+I completed a comprehensive 3-month Data Analyst course on the Tutedude platform. The course provided in-depth training on data analysis techniques, tools, and methodologies, enabling me to gain hands-on experience in analyzing, visualizing, and interpreting complex datasets. Through practical projects and real-world scenarios, I developed strong analytical skills and proficiency in using data analysis software, making me well-equipped for data-driven decision-making.
